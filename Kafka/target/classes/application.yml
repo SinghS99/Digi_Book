@@ -1,0 +1,8 @@
+bootstrap-servers: localhost:9092
+kafka: ''
+key-serializer: org.apache.kafka.common.serialization.StringSerializer
+port: 8086
+producer: ''
+server: ''
+spring: ''
+value-serializer: org.apache.kafka.common.serialization.StringSerializer
